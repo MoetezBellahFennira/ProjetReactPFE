@@ -1,0 +1,17 @@
+.EspaceContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+}
+
+.ContainerPartie2{
+    display: flex;
+    flex-direction: column;
+    width:70%;
+    padding: 16px;
+    gap: 10px;
+}
+.EspaceEmployePic
+{
+    height: 100px;
+}

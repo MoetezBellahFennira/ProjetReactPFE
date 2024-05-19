@@ -1,0 +1,20 @@
+.SidebarRH{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    gap: 110px;
+    padding: 50px;
+    border-right: thick double #5380cc;
+    
+}
+.LogoSide{
+margin-left: 10px;
+width: 250px;
+height: 100px;
+}
+
+.btn{
+    width: max-content;
+}
+
+
